@@ -320,7 +320,7 @@ body.dark-theme {
 
 .home__perfil {
   width: 170px;
-  height: 260px;
+  height: 160px;
   background: var(--gradient-color);
   border-radius: 6.5rem;
   overflow: hidden;
@@ -902,7 +902,7 @@ body.dark-theme {
 .footer__social-link {
   font-size: 1.25rem;
   color: var(--title-color);
-  transition: transform 0.3s;
+  transition: transform 0.3s; 
 }
 
 .footer__social-link:hover {
