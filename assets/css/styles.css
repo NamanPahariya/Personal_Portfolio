@@ -320,7 +320,7 @@ body.dark-theme {
 
 .home__perfil {
   width: 170px;
-  height: 160px;
+  /* height: 160px; */
   background: var(--gradient-color);
   border-radius: 6.5rem;
   overflow: hidden;
@@ -330,7 +330,7 @@ body.dark-theme {
 }
 
 .home__perfil img {
-  width: 150px;
+  width: 180px;
   height: 260px;
 }
 
@@ -1155,6 +1155,7 @@ body.dark-theme {
   }
   .home__shape-circle {
     width: 250px;
+    height: 200px;
     bottom: -1rem;
     right: -5rem;
   }
