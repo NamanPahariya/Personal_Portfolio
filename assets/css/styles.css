@@ -1210,7 +1210,7 @@ body.dark-theme {
   }
   .services__card {
     width: 245px;
-    height: 345px;
+    height: 445px;
     border-radius: 7.6rem;
     padding: 3.5rem 1.5rem;
   }
@@ -1220,7 +1220,7 @@ body.dark-theme {
   }
   .services__border {
     width: 265px;
-    height: 365px;
+    height: 465px;
     border-radius: 8.25rem;
   }
   .projects__container {

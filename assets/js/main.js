@@ -74,7 +74,7 @@ const contactForm = document.getElementById('contact-form'),
 
             contactMessage.textContent = 'Write all the input fields 📃'
          } else{
-            emailjs.sendForm('service_wqulq9d','template_3ibyfbs','#contact-form','NdhP_P5JnrklnbLsW')
+            emailjs.sendForm('service_wqulq9d','template_3ibyfbs','#contact-form','mSoOKCOO1Ql4E34XX')
             .then(()=>{
                 contactMessage.classList.add('color-blue')
                 contactMessage.textContent = 'Message sent ✅'
